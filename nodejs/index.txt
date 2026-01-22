@@ -1,0 +1,56 @@
+clint-side/frontend                                   Server                                                        Database
+   |                                                     |                                                             |
+   |                                                     |                                                             | 
+   |                                                     |                                                             |
+
+   React js                                          Node js                                                        mongo DB
+   Next js                                            java                                                           My Sql
+   Vue js                                             .net
+   Angular js                                          ROR
+
+   node js is the run time enviroment for the javascript
+
+   Data type 
+   1. Number -- Integet  eg: 1,2,3 -- float eg:2.5,32.5 --- Double 
+   2. Charactr  / String  
+   3. Object  
+   4. Boolean --True or False
+   5. unndefine  let add;
+   6. null -- let null =null 
+
+
+
+
+   &&--and          
+                      if (true && true )
+                      if (ture || true )
+   ||-- or
+
+Question 1. given array =[5,9,11,33]
+find the sum of all value  .and provide the output in roundoff form
+math.floor();
+math.cell();
+
+let n=5;
+let i=0;
+let arr=[5,9,11,33];
+for (i=0;i<arr.length;i++){
+   sum=sum+arr[i];
+
+}
+console.log(sum);
+
+
+Question 2. given string =welcome to  node js class
+change to upper case 
+
+char.UpperCase
+
+Question 3.create an object of array
+
+
+Question 4. check the string is palendrome
+
+
+
+
